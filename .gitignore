@@ -1,0 +1,11 @@
+data/*.csv
+data/*.rds
+data/*.RDS
+data/*.RData
+results/*.rds
+results/*.RDS
+results/*.RData
+*.RData
+*.Rhistory
+code/*.RData
+code/.Rhistory
