@@ -9,3 +9,4 @@ results/*.RData
 *.Rhistory
 code/*.RData
 code/.Rhistory
+dirs.R
